@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Exercise</string>
+    <string name="body_mass_index">Body Mass Index</string>
+    <string name="height">Height (m)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="result">BMI Result: %s</string>
+</resources>
